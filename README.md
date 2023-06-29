@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding, gym, traveling
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me vins19931@gmail.com
 
 <!---
 Nemeskin/Nemeskin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
