@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nemeskin
 - 👀 I’m interested in coding, gym, traveling
 - 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web3
+- 💞️ I’m looking to collaborate on app dev
 - 📫 How to reach me vins19931@gmail.com
 pow
 
